@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @freshmohale
 - 👀 I’m interested in Marketing trends especially in corporate
-- 🌱 I’m currently learning Marketing Management and basic IT @ IT Varsity
-- 💞️ I’m looking to collaborate on creating codes for websites, if that makes sense.
+- 🌱 I’m currently learning Marketing Management and basic software development @ IT Varsity
+- 💞️ I’m looking to collaborate on creating web applications.
 - 📫 How to reach me phakitsomohale@gmail.com
 
 <!---
